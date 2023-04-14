@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+  text-size-adjust: 10rem;
+  margin: 20rem;
+  background-image: url(img.jpg);
+  background-size: cover;
+  
+}
+input{
+  width: 15rem;
+  height: 2rem;
+  border-spacing: 7%;
+  background-color: #16c081;
+  color:white;
+  font-size: 20px;
+  
+}
+ input:focus{
+    border: 3px solid #973737;
+ }
+input:hover{
+  color: black;
+}
+
+button{
+  width: 10rem;
+  height: 2rem;
+  margin: 2%;
+  background-color: #0dd582;
+}
